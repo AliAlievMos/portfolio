@@ -16,9 +16,12 @@ title{
 }
 header{
     padding: 7px;
-    background: rgb(0,0,0);
-    background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(224,218,133,1) 55%);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,91,9,1) 100%, rgba(0,212,255,1) 100%);
     box-shadow: 10px 5px 5px grey;
+}
+body{
+    background: #e6ffd5;
 }
 
 .icons{
@@ -89,8 +92,8 @@ p{
     text-align: center;
 }
 a{
-    text-decoration-color: blue;
-    color: blue;
+    text-decoration-color: #96a825;
+    color: #2775a8;
 }
 #cont, #st, #pet, #commercial, #res, #m {
     cursor:pointer;
