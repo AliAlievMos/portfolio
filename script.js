@@ -1,7 +1,7 @@
 const main = document.getElementById('sym')
 
 let menu = new Map([['cont', 'contacts'], ['st', 'stack'], ['pet', 'pet-projects'],
-['commercial', 'commercial-project'], ['res', 'resume'], ['m', 'main']])
+['commercial', 'commercial-project'], ['res', 'resume'], ['m', 'main'], ['study', 's']])
 
 
 menu.forEach(MenuElements)
